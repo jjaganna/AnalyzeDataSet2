@@ -17,7 +17,7 @@ This dataset comprises of multiple signals from isolated pure cells, mixed cells
 * Use these training models to predict the total counts of the individual cell types in mixed cells i.e Mixed_Cells_Type_1 and Mixed_Cells_Type_1
 
 ## Dataset
-A link to the dataset will be sent to you in the email
+A link to the dataset will be sent to you in the email. The datasets contains a few thousand data points for each cells.
 
 The datasets comprises of the following folders:
 ### Measurement data from pure Isolated known cells
@@ -37,6 +37,10 @@ Use the code in combine_data.py as a starting point to combine single cell data
 * Create a branch with your submission
 * Create a pull request
 * Submit a 2 page summary by email regarding your choices and summary of results by email. 
+** Include any challenges or problems you faced along with suggested solutions
+** Go over you approach and reason for choices of method
+** Summarize the data and results
+** Do you see any issues with the data itself. If so, how would you improve or make changes. Alternatively, how would you (or how did you) clean the data?
 
 
 ## Do's
