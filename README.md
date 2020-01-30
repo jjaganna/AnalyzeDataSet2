@@ -4,9 +4,9 @@ This dataset comprises of multiple signals from isolated pure cells, mixed cells
 
 ## Tasks
 ### Data Preparation and cleaning
-* Look at the known cells measurement and suggest a data cleaning procedure or approach to create a training data set
+* Look at the known cells measurement and suggest a data cleaning procedure or approach to create a training data set (i.e.Cell_A, Cell_B and Cell_C)
 * This can include removing duplicates, correcting errors, dealing with missing values, normalization, data types conversions etc.
-* Split this data set into training and evaluation data sets
+* Split this data set into training and evaluation data sets (i.e. split data from Cell_A, Cell_B and Cell_C)
 
 ### Create a training model
 * Identify or propose a method to create the training model set i.e. What methods would you use and why? 
@@ -14,11 +14,24 @@ This dataset comprises of multiple signals from isolated pure cells, mixed cells
 * Evaluate your model - what metrics would you use to quantitatively measure the performance of your model
 
 ### Predict
-* Use these training models to predict the total counts of the individual cell types in mixed cells-type 1 and mixed cells- type 2
-
+* Use these training models to predict the total counts of the individual cell types in mixed cells i.e Mixed_Cells_Type_1 and Mixed_Cells_Type_1
 
 ## Dataset
-A link to the dataset will be sent to you 
+A link to the dataset will be sent to you in the email
+
+The datasets comprises of the following folders:
+### Measurement data from pure Isolated known cells
+* Cell_A
+* Cell_B
+* Cell_C
+
+### Mixed cells
+* Mixed_Cells_Type_1
+* Mixed_Cells_Type_2
+
+All the folders contain zipped datasets denoted as dV.zip and dVV.zip and both contain data about each cells. Cell are numerically marked in file names.
+
+Use the code in combine_data.py as a starting point to combine single cell data
 
 ## Submission
 * Create a branch with your submission
