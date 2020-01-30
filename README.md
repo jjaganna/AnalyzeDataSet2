@@ -37,10 +37,10 @@ Use the code in combine_data.py as a starting point to combine single cell data
 * Create a branch with your submission
 * Create a pull request
 * Submit a 2 page summary by email regarding your choices and summary of results by email. 
-** Include any challenges or problems you faced along with suggested solutions
-** Go over you approach and reason for choices of method
-** Summarize the data and results
-** Do you see any issues with the data itself. If so, how would you improve or make changes. Alternatively, how would you (or how did you) clean the data?
+ * Include any challenges or problems you faced along with suggested solutions
+ * Go over you approach and reason for choices of method
+ * Summarize the data and results
+ * Do you see any issues with the data itself. If so, how would you improve or make changes. Alternatively, how would you (or how did you) clean the data?
 
 
 ## Do's
