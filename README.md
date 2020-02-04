@@ -18,12 +18,13 @@ This dataset comprises of multiple signals from isolated pure cells, mixed cells
 
 ## Dataset
 A link to the dataset will be sent to you in the email. The datasets contains a few thousand data points for each cells.
+Each CSV is a single cell
 
 The datasets comprises of the following folders:
 ### Measurement data from pure Isolated known cells
-* Cell_A
-* Cell_B
-* Cell_C
+* Cell_A (Total Cells: 1206)
+* Cell_B (Total Cells: 1543)
+* Cell_C (Total Cells: 1379)
 
 ### Mixed cells
 * Mixed_Cells_Type_1
