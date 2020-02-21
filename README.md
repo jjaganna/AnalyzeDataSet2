@@ -52,7 +52,13 @@ Use the code in combine_data.py as a starting point to combine single cell data
 * If you exceed the timelines, do propose and describe in your summary your approach
 
 ## Do not 
-* Spend more than 2 hrs working on this - code
+* Spend more than 4 hrs working on this. (Do not include time to download data into this timeline. The dataset is large and depending on your computer and network, download speeds could vary)
 * Spend more that 30 mins documenting your work i.e code and summary
+
+## What we are looking for:
+* You data analysis/cleaning/wrangling skills
+* Ability to use statistics or other methods to understand data trends behaviour
+* Ability to create a models to enable classification
+* Can you solve the problem efficiently to propose solution to better understanding the data.
 
 
